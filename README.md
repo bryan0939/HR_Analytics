@@ -30,8 +30,8 @@ This project explores machine learning techniques to predict employee attrition 
 ```
 HR_Analytics_GitHub_Ready.ipynb   # Main notebook with full analysis
 README.md                         # Project overview and summary
-data/                             # (Optional) Folder for raw CSV files
-models/                           # (Optional) Saved model outputs
+data/                             # Folder for raw CSV files
+
 ```
 
 ## Dependencies
